@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: a362fca48b553f244bb322c48ee7f9fe
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Orange Dragon Attack_0
+    21300002: Orange Dragon Attack_1
+    21300004: Orange Dragon Attack_2
+    21300006: Orange Dragon Attack_3
+    21300008: Orange Dragon Attack_4
+    21300010: Orange Dragon Attack_5
+    21300012: Orange Dragon Attack_6
+    21300014: Orange Dragon Attack_7
+    21300016: Orange Dragon Attack_8
+    21300018: Orange Dragon Attack_9
+    21300020: Orange Dragon Attack_10
+    21300022: Orange Dragon Attack_11
+    21300024: Orange Dragon Attack_12
+    21300026: Orange Dragon Attack_13
+    21300028: Orange Dragon Attack_14
+    21300030: Orange Dragon Attack_15
+    21300032: Orange Dragon Attack_16
+    21300034: Orange Dragon Attack_17
+    21300036: Orange Dragon Attack_18
+    21300038: Orange Dragon Attack_19
+    21300040: Orange Dragon Attack_20
+    21300042: Orange Dragon Attack_21
+    21300044: Orange Dragon Attack_22
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orange Dragon Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4d28182f5bebcd1961242c487c974f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 658
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25209c36cfa31fa4da957d89498e8a2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 658
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105b8598c085dba478877886b41de8d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d8231c450dfe16eafdff233345009c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 564
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8ad0c9d46af7383ab11bf4a2f7bd48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 564
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdc0657e90435b049a2cfcce4e31839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac46ff0ebff99317281bebc55178756c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 470
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122759ddf28eee061977579c50e2063b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 470
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2364215cf216aa2d4994500b79947a20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cb3d55bac01f4d886b22e4ae5a1f67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 376
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d1b0eb9aac3c2ef80b809b17c8d224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_11
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 376
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606cc24a8a6c64857af8034a4d1d05a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a2e884156d396239c2af60963882a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_13
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 282
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8150cc33e6c755b83a3481c5280b5621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_14
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 282
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31392d14b4124416b937fdff24d2100c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a547e951bd140955993a7d15c1ff5789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 188
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce47fae7b7c76e9a5bfc7c54ec55d727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_17
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 188
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97740777848efede7ae282699cac36e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff0ddbf86512e965a15a6eb321ff4ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 93
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81defdbc0adec4c98c55c82b9672d9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_20
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 94
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8abbe2b568074000bb32620943fe686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b0eb782bf328fb9882a2caeb271c3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Dragon Attack_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 290
+        height: 94
+      alignment: 9
+      pivot: {x: 0.727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc98054ca51418a63a040179d748cff2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
